@@ -11,6 +11,10 @@ I’m passionate about writing clean, scalable, and efficient code ✨📈, and 
 
  When I’m not coding 💻, you’ll find me immersing myself in nature 🌿🏝️ or expressing creativity through the soulful melodies of my clarinet 🎶✨.
 
+ ----
+ ## 🤖 Languages
+ 
+
 <!--
 **Tegapeejay/tegapeejay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
