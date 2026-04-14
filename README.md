@@ -1,6 +1,6 @@
 ## Hi there i'm Peejay 👋
 
- I’m a highly motivated and enthusiastic Java Developer 💻🔥 based in 🏠 Lagos, Nigeria 🇳🇬, with a solid foundation in object-oriented programming and core Java (up to Java 11) ☕🚀. I specialize in backend development using Spring Boot 🌱, with a passion to for building robust REST APIs 🔗, database-driven applications 🗄️, and efficient console-based systems 🖥️.
+ I’m a highly motivated and enthusiastic **Java Developer** 💻🔥 based in 🏠 **Lagos, Nigeria 🇳🇬**, with a solid foundation in object-oriented programming and core Java (up to Java 11) ☕🚀. I specialize in backend development using Spring Boot 🌱, with a passion to for building robust REST APIs 🔗, database-driven applications 🗄️, and efficient console-based systems 🖥️.
 
 I’m passionate about writing clean, scalable, and efficient code ✨📈, and I’m eager to bring value as a Junior Java Developer while continuously expanding my technical expertise and growing in the tech space 🌍💡.
 
