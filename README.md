@@ -1,6 +1,11 @@
 ## Hi there i'm Peejay 👋
 
-### I'm an enthusiastic Java Developer based in 🏠 Lagos Nigeria, with a strong foundation in object-oriented programming 
+ I'm an enthusiastic **Java Developer** based in 🏠 **Lagos Nigeria**, with a strong foundation in object-oriented programming core Java (up to Java 11), 
+ and backend development using Spring Boot. Experienced in building REST APIs, database-driven applications, and console-based systems. 
+ Passionate about writing clean, efficient code and eager to contribute as a Junior Java Developer while growing technical expertise.
+#
+ 
+ ## 🃏About Me 
 <!--
 **Tegapeejay/tegapeejay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
