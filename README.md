@@ -1,6 +1,6 @@
 ## Hi there i'm Peejay 👋
 
-# I'm an enthusiastic Java Developer based in 🏠 Lagos Nigeria, with a strong foundation in object-oriented programming 
+### I'm an enthusiastic Java Developer based in 🏠 Lagos Nigeria, with a strong foundation in object-oriented programming 
 <!--
 **Tegapeejay/tegapeejay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
