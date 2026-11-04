@@ -1,70 +1,91 @@
-## Hi there i'm Peejay 👋
+<div align="center">
+  <img width="100%" src="./assets/github-banner.png" alt="Tega Peejay - Software Engineer Banner" />
 
- I’m a highly motivated and enthusiastic **Java Developer** 💻🔥 based in 🏠 **Lagos, Nigeria 🇳🇬**, with a solid foundation in object-oriented programming and core Java (up to Java 11) ☕🚀. I specialize in backend development using Spring Boot 🌱, with a passion to for building robust REST APIs 🔗, database-driven applications 🗄️, and efficient console-based systems 🖥️.
+  <br/><br/>
 
-I’m passionate about writing clean, scalable, and efficient code ✨📈, and I’m eager to bring value as a Junior Java Developer while continuously expanding my technical expertise and growing in the tech space 🌍💡.
+  <h1>Hi, I'm Tega Peejay 👋</h1>
+  <p><strong>Software Engineer &bull;Mobile (Flutter) Developer</strong></p>
+  <p><em>Developing scalable, reliable, and user-friendly mobile and web applications using Flutter, Dart, and Java, with a focus on clean architecture, backend integration, database management, and efficient software engineering practices.</em></p>
 
-----
- 
- ## 🃏About Me 
- As a continuous learner 🧩, I am always improving my skills and staying updated with modern technologies. I’m eager to contribute to a dynamic team, grow as a developer, and build impactful software solutions 🌍
+  <p>
+    <a href="mailto:tegaudjohpeejay@gmail.com"><img src="https://img.shields.io/badge/Email-tegaudjohpeejay%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/tega-peejay-390644236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Tegapeejay-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/Tegapeejay" target="_blank"><img src="https://img.shields.io/badge/GitHub-Tegapeejay-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <p>
+    <code>Software Engineer</code> &bull;
+    <code>1+ Years Experience</code> &bull;
+    <code>Flutter</code> &bull;
+    <code>Android & iOS</code> &bull;
+    <code>Clean Architecture</code> &bull;
+  </p>
+</div>
 
- When I’m not coding 💻, you’ll find me immersing myself in nature 🌿🏝️ or expressing creativity through the soulful melodies of my clarinet 🎶✨.
+<br/>
 
- ----
- ## 🤖 Skills
+---
 
- * ### Language
- <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="25" />
-  </div>
+### 💻 Software Engineering Profile
 
-  
-* ### Frameworks
- <div align="left">
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="sprimg logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
-  <img width="25" />
-  </div>
-  
-* ### Tools
- <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="25" />
-  </div>
+```yaml
+name: Udjoh Oghenetega Peejay
+role: Junior Software Engineer (Full-Stack Web & Mobile)
+experience: 1+ Years Professional Development
 
+core_strengths:
+  software_architecture:
+    - Clean Architecture, Feature-Based Modular Structure, SOLID Principles
+    - Object-Oriented Programming (OOP), Design Patterns, Code Reusability
+    - State Management (BLoC, Riverpod, Provider, GetX)
+  Mobile Application Development:
+    - Flutter & Dart (Cross-Platform Android and iOS Development)
+    - Responsive UI Development, Custom Widgets, Material Design
+    - Native Platform Integration, Background Services, Push Notifications
+  Backend & API Development:
+    - Authentication, Authorization, JSON Serialization
+    - Native Android & iOS Integrations (Platform Channels)
+    - Third-Party API Integration and Backend Connectivity
+  Database & Cloud Technologies:
+    - SQLite, Firebase Firestore, Supabase, MongoDBIs
+    - Firebase Authentication, Cloud Storage, Cloud Messaging
+    - Database Design, Data Persistence, Real-Time Synchronization
+  Web Development:
+    - HTML5, CSS3, Tailwind CSS
+  Services_integrations:
+    - Payment Gateways (Stripe, In-App Purchases), Google Maps APIs
+    - AI API Integration and Push Notification Services
+  Application Performance & Deployment:
+    - Debugging, Testing, and Performance Optimization
+    - Offline-First Development and Local Data Management
+    - Git, GitHub, Android SDK, Gradle
+    - Mobile Application Build, Release, and Deployment
 
+passions: Building reliable, scalable software applications that combine thoughtful architecture, practical functionality, and polished user experiences
+```
 
+<br/>
 
-  
-   
+---
 
+### 🛠️ Tech Stack & Tooling
 
-   
+- **Mobile Development:**  
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Riverpod-02569B?style=flat&logo=flutter&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=flat&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS" />
 
+- **Backend, Cloud & Databases:**  
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat&logo=fastapi&logoColor=white" alt="REST APIs" />
 
- 
- 
+- **Developer Tools & Environment:**  
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
-<!--
-**Tegapeejay/tegapeejay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Production Applications & Featured Systems
