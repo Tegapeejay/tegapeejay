@@ -102,7 +102,7 @@ passions: Building reliable, scalable software applications that combine thought
       <p>
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white" alt="Google Play" />
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Supabase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Supabase" />
+        <img src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge%22" alt="Supabase" />
       </p>
       <ul>
         <li>Real-time step counting and activity monitoring using device motion sensors and pedometer integration.</li>
@@ -123,7 +123,7 @@ passions: Building reliable, scalable software applications that combine thought
       <p>
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white" alt="Google Play" /></a>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/SQLite-FFCA28?style=flat&logo=sqlite&logoColor=black" alt="SQLite" />
+        <img src="https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=fff&style=plastic" alt=SQLite" />
       </p>
       <ul>
         <li>Designed to promote healthier lifestyles through an intuitive interface and personalized wellness insights.</li>
@@ -134,7 +134,6 @@ passions: Building reliable, scalable software applications that combine thought
         <li>Workout history and fitness progress analytics to help users monitor consistency, track achievements, and evaluate personal improvements.</li>
         <li>Responsive and intuitive Flutter interface designed to deliver a seamless and engaging cross-platform mobile experience.
         </li>
-
       </ul>
     </td>
   </tr>
@@ -180,7 +179,7 @@ passions: Building reliable, scalable software applications that combine thought
   
   <p>
     <a href="mailto:tegaudjohpeey@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-tegaudjohpeejay%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tega" /></a>
-    <a href="https://www.linkedin.com/in/tega-peejay-390644236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn_Message-ahmaryarkhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Tega" /></a>
+    <a href="https://www.linkedin.com/in/tega-peejay-390644236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn_Message-tegapeejay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Tega" /></a>
     <a href="https://github.com/Tegapeejay" target="_blank"><img src="https://img.shields.io/badge/GitHub_Profile-tegapeejay-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Tega" /></a>
   </p>
 </div>
