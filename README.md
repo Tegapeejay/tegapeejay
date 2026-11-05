@@ -28,7 +28,7 @@
 
 ```yaml
 name: Udjoh Oghenetega Peejay
-role: Junior Software Engineer (Full-Stack Web & Mobile)
+role: Junior Software Engineer (Mobile)
 experience: 1+ Years Professional Development
 
 core_strengths:
