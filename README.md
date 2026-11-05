@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./assets/github-banner.png" alt="Tega Peejay - Software Engineer Banner" />
+  <img width="100%" src="./assets/peejay.png" alt="Tega Peejay - Software Engineer Banner" />
 
   <br/><br/>
 
@@ -89,3 +89,97 @@ passions: Building reliable, scalable software applications that combine thought
 ---
 
 ### 🚀 Production Applications & Featured Systems
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3 align="left">
+        <img src="./assets/stepsync.png" width="28" height="28" style="vertical-align: middle; border-radius: 6px;" alt="stepsync Logo" />
+        StepSync: Fitness tracking
+      </h3>
+      <p><strong>Real-time step counting</strong> &bull; <code>Not Yet Published</code></p>
+      <p><em>Distance tracking, GPS-based activity monitoring, daily/weekly/monthly.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white" alt="Google Play" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge%22" alt="Supabase" />
+      </p>
+      <ul>
+        <li>Real-time step counting and activity monitoring using device motion sensors and pedometer integration.</li>
+        <li>GPS-based distance tracking with comparison between GPS-measured distance and stride-based distance calculations.</li>
+        <li>Daily, weekly, and monthly fitness analytics with step goals, distance records, and activity progress tracking.</li>
+        <li>Secure user authentication and cloud-based fitness data management using Supabase, with administrative insights into user registrations and app engagement.</li>
+        <li>Interactive fitness dashboard displaying step counts, calories burned, walking distance, and progress toward daily activity goals.</li>
+        <li>Background activity tracking with permission management and optimized sensor updates for efficient battery usage.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3 align="left">
+        <img src="./assets/aura-fit.png" width="28" height="28" style="vertical-align: middle; border-radius: 6px;" alt="aura fit Logo" />
+        Aura Fit: Smart Fitness & Wellness Tracker
+      </h3>
+      <p><strong>Workout planning, workout tracking.</strong> &bull; <code>Not Yet Published</code></p>
+      <p><em>Designed to promote healthier lifestyles through an intuitive interface and personalized wellness insights.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=fff&style=plastic" alt=SQLite" />
+      </p>
+      <ul>
+        <li>Designed to promote healthier lifestyles through an intuitive interface and personalized wellness insights.</li>
+        <li>Dynamic hydration and calorie tracking with daily targets, progress monitoring, and activity-based wellness insights.</li>
+        <li>Mindful mood tracking and wellness journaling to help users monitor emotional well-being and maintain healthy lifestyle habits.</li>
+        <li>Interactive fitness dashboard displaying workout progress, hydration levels, calorie intake, daily goals, and overall activity statistics.</li>
+        <li>Secure user authentication with sign-up and sign-in functionality, supported by a local SQLite database for user accounts and data persistence.</li>
+        <li>Workout history and fitness progress analytics to help users monitor consistency, track achievements, and evaluate personal improvements.</li>
+        <li>Responsive and intuitive Flutter interface designed to deliver a seamless and engaging cross-platform mobile experience.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 📊 Contribution Heatmap & Activity
+
+<div align="center">
+  <table width="100%" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" style="padding: 20px; background: transparent;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codexahmar/CodeXahmar/output/github-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codexahmar/CodeXahmar/output/github-snake.svg" />
+          <img width="100%" alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/codexahmar/CodeXahmar/output/github-snake.svg" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 💡 Daily Engineering Thought
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dynamic Programming Quote" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
+### 📬 Let's Connect & Collaborate
+  
+  <p>
+    <a href="mailto:tegaudjohpeey@gmail.com"><img src="https://img.shields.io/badge/Direct_Email-tegaudjohpeejay%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tega" /></a>
+    <a href="https://www.linkedin.com/in/tega-peejay-390644236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn_Message-tegapeejay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Tega" /></a>
+    <a href="https://github.com/Tegapeejay" target="_blank"><img src="https://img.shields.io/badge/GitHub_Profile-tegapeejay-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Tega" /></a>
+  </p>
+</div>
