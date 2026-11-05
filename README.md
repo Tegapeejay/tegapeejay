@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./assets/peejay.png" alt="Tega Peejay - Software Engineer Banner" />
+  <img width="50%" src="./assets/coffee.png" alt="Tega Peejay - Software Engineer Banner" />
 
   <br/><br/>
 
